@@ -1,0 +1,3 @@
+[submodule "umsolar2048"]
+	path = umsolar2048
+	url = https://github.com/aareshb/umsolar2048.git
